@@ -11,5 +11,8 @@
     "url": "TypeScript"
   },
   "author": "VitorKreis",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
